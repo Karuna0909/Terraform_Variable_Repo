@@ -3,7 +3,3 @@ resource "azurerm_resource_group" "Butterfly" {
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "Butterfly1" {
-  name     = "Rg012-resources"
-  location = "West Europe"
-}
